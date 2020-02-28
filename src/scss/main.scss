@@ -6,6 +6,9 @@
 @import "base/base";
 @import "base/utilities";
 @import "base/typography";
+//@import "base/animate";
+//@import "base/grid";
+@import "base/normalize";
 
 @import "components/button";
 @import "components/form";
@@ -13,8 +16,3 @@
 @import "layout/footer";
 @import "layout/header";
 
-@import "pages/home";
-
-//@import "vendors/animate";
-//@import "vendors/grid";
-@import "vendors/normalize";
